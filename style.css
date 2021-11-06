@@ -4,11 +4,10 @@ h1{
   text-align: center;
 }
 
-.yamanami{
-  width: 800px; /* 幅 */
-  height: 570px; /* 高さ */
-  margin-left: auto; /* 🖐 */
-  margin-right: auto; /* 🖐 */
+iframe{
+  width: 800px;
+  height: 570px;
+  text-align: center;
 }
 
 html {
