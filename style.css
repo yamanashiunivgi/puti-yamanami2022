@@ -1,6 +1,8 @@
 .yamanami{
-    width:100%;
-    height:80vh;
+  width: 800px; /* 幅 */
+  height: 570px; /* 高さ */
+  margin-left: auto; /* 🖐 */
+  margin-right: auto; /* 🖐 */
 }
 html {
     background-color: #ffdab9;
