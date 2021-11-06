@@ -7,12 +7,14 @@ h1{
   padding-right: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
-  coler: #000000;
-  position: absolute;
+  coler: #FFFFFF;
   letter-spacing: 4px;
 }
 
 .yamanami{
+  position: absolute;
+  left: 500px;
+  top: 500px;
   width: 800px;
   height: 570px;
   text-align: center;
