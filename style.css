@@ -2,6 +2,16 @@ h1{
   font-size=5;
   font-weight: bold;
   text-align: center;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  coler: #000000;
+  position: absolute;
+  top: 110px;
+  left: 175px;
+  letter-spacing: 4px;
 }
 
 .yamanami{
