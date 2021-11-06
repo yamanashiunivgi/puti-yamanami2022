@@ -1,9 +1,14 @@
+title{
+  font-size=5;
+}
+
 .yamanami{
   width: 800px; /* 幅 */
   height: 570px; /* 高さ */
   margin-left: auto; /* 🖐 */
   margin-right: auto; /* 🖐 */
 }
+
 html {
     background-color: #ffdab9;
 }
