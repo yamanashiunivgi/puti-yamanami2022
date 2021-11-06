@@ -1,8 +1,7 @@
 .yamanami{
-         text-align: center;
-         width:571px;
-         height:800px;
-        }
+    width:100%;
+    height:80vh;
+}
 html {
     background-color: #ffdab9;
 }
